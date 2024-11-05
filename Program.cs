@@ -97,4 +97,3 @@ var obj2 = new LicznikObiektow(); // LiczbaObiektow = 2
 // co oznacza, że jest wspólne dla wszystkich obiektów klasy LicznikObiektow.
 // Przy tworzeniu nowych obiektów, wartość tego pola jest automatycznie aktualizowana.
 
-
