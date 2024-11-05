@@ -85,7 +85,7 @@ public class LicznikObiektow
 
     public LicznikObiektow()
     {
-        LiczbaObiektow++; // Inkrementujemy wartość pola statycznego
+        LiczbaObiektow++; // Zwiększamy wartość pola statycznego
     }
 }
 
